@@ -1,0 +1,9 @@
+streamlit 
+pandas
+numpy
+face-recognition==1.3.0
+cmake
+dlib==19.24.0
+opencv-python
+openpyxl
+
